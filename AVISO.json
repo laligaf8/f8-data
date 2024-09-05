@@ -1,0 +1,8 @@
+{
+   "popup": {
+      "titulo": "Bienvenido a la Liga F8",
+      "texto": "Descubre toda la información sobre nuestros torneos y cómo inscribir a tu equipo.",
+      "imagen": "https://example.com/image.jpg",
+      "enlace": "https://wa.me/573053090995?text=Quiero%20inscribir%20a%20mi%20equipo"
+   }
+}
