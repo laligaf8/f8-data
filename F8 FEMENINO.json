@@ -1,14 +1,44 @@
 [
-   {
-      "id": 1,
-      "nombredeltorneo": "CUARTO TORNEO",
-      "urlboletin": "https://drive.google.com/file/d/1RQDdZ_OuzZFtm-wvexe99ofZkPwgtCUM/view?usp=drive_link",
-      "nombredelboletin": "BOLETIN LA LIGA F8 No. 02 QUINTO TORNEO 2024"
-   },
-   {
-      "id": 2,
-      "nombredeltorneo": "CUARTO TORNEO",
-      "urlboletin": "https://drive.google.com/file/d/1RQDdZ_OuzZFtm-wvexe99ofZkPwgtCUM/view?usp=drive_link",
-      "nombredelboletin": "BOLETIN LA LIGA F8 No. 03 QUINTO TORNEO 2024"
-   }
+    {
+        "id": 1,
+        "nombredeltorneo": "PRIMER TORNEO FUTBOL FEMENINO 8 LALIGA F8 2024",
+        "urlboletin": "https://drive.google.com/file/d/1RQDdZ_OuzZFtm-wvexe99ofZkPwgtCUM/view?usp=sharing",
+        "nombredelboletin": "REGLAMENTACIÓN GENERAL V TORNEO 2024"
+    },
+    {
+        "id": 2,
+        "nombredeltorneo": "PRIMER TORNEO FUTBOL FEMENINO 8 LALIGA F8 2025",
+        "urlboletin": "https://drive.google.com/file/d/10-9f8sKY_UFK6XgaMZHB6f2Py9MtAouN/view?usp=sharing",
+        "nombredelboletin": "PROYECCION PROGRAMACION QUINTO TORNEO"
+    },
+    {
+        "id": 3,
+        "nombredeltorneo": "PRIMER TORNEO FUTBOL FEMENINO 8 LALIGA F8 2026",
+        "urlboletin": "https://drive.google.com/file/d/130ehO1BWfmC8oQRa-XQ4JCFKRL65-6kc/view?usp=sharing",
+        "nombredelboletin": "BOLETIN LA LIGA F8 No 01 QUINTO TORNEO 2024"
+    },
+    {
+        "id": 4,
+        "nombredeltorneo": "PRIMER TORNEO FUTBOL FEMENINO 8 LALIGA F8 2027",
+        "urlboletin": "https://drive.google.com/file/d/15bDNpNy1zxyKzDJn611T2vbxx3uWQ6XO/view?usp=sharing",
+        "nombredelboletin": "BOLETIN LA LIGA F8 No. 02 QUINTO TORNEO 2024"
+    },
+    {
+        "id": 5,
+        "nombredeltorneo": "PRIMER TORNEO FUTBOL FEMENINO 8 LALIGA F8 2028",
+        "urlboletin": "https://drive.google.com/file/d/1K4yoFAwywz1dYgnMkwwsg78KBr8F-8vC/view?usp=sharing",
+        "nombredelboletin": "BOLETIN LA LIGA F8 No. 03 QUINTO TORNEO 2024"
+    },
+    {
+        "id": 6,
+        "nombredeltorneo": "PRIMER TORNEO FUTBOL FEMENINO 8 LALIGA F8 2029",
+        "urlboletin": "https://drive.google.com/file/d/16fXXmZTO2EMuXplEa2SmYZIrjDEY9791/view?usp=drive_link",
+        "nombredelboletin": "REGLAMENTACIÓN GENERAL IV TORNEO 2024"
+    },
+    {
+        "id": 7,
+        "nombredeltorneo": "PRIMER TORNEO FUTBOL FEMENINO 8 LALIGA F8 2030",
+        "urlboletin": "https://drive.google.com/file/d/1HOIKEpF_Zq4hJDUOF0Yr9GE-7fz9WXeA/view?usp=drive_link",
+        "nombredelboletin": "PROYECCION PROGRAMACION CUARTO TORNEO"
+    }
 ]
