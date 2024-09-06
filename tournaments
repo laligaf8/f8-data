@@ -1,16 +1,1 @@
-{
-    "tournaments": [
-        {
-            "title": "Torneo Masculino",
-            "subtitle": "F8 Masculino",
-            "image": "https://d264tuzfk424fk.cloudfront.net/LandingPagePictures/484a66c6-1fc2-4eda-ab22-947373b02b16_638606380133258584_.png",
-            "link": "https://laligaf8.com/f8_masculino"
-        },
-        {
-            "title": "Torneo Femenino",
-            "subtitle": "F8 Femenino",
-            "image": "https://d264tuzfk424fk.cloudfront.net/LandingPagePictures/6c2293c3-d620-485a-bf62-ebea4a2ac2b9_638606380469258569_.png",
-            "link": "https://laligaf8.com/f8_femenino"
-        }
-    ]
-}
+
