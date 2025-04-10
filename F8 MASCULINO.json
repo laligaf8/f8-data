@@ -92,13 +92,19 @@
     {
         "id": 86,
         "nombredeltorneo": "PRIMER TORNEO FUTBOL 8 LALIGA F8 2025",
-        "urlboletin": "https://drive.google.com/file/d/1mS0td6_BV7e--qSabUv2LNK99nYuBKoW/view?usp=sharing",
-        "nombredelboletin": "PROGRAMACIÓN DOMINGO 06 DE ABRIL 2025 BOLETIN LA LIGA F8 No 10 PRIMER TORNEO 2025"
+        "urlboletin": "https://drive.google.com/file/d/1d-Hqn7DEzRBUy5V0bP6uqvN7o5isLKE9/view?usp=sharing",
+        "nombredelboletin": "PROGRAMACIÓN DOMINGO 13 DE ABRIL 2025 BOLETIN LA LIGA F8 No 10 PRIMER TORNEO 2025"
     },
     {
         "id": 87,
         "nombredeltorneo": "SEGUNDO TORNEO FUTBOL 8 LALIGA F8 2025",
         "urlboletin": "https://drive.google.com/file/d/1cb8IiT2YrbUzoxC2UuVy6qUxXhoRvxbG/view?usp=sharing",
         "nombredelboletin": "PROGRAMACIÓN DOMINGO 06 DE ABRIL 2025 BOLETIN LA LIGA F8 No 5 SEGUNDO TORNEO 2025"
+    },
+    {
+        "id": 88,
+        "nombredeltorneo": "SEGUNDO TORNEO FUTBOL 8 LALIGA F8 2025",
+        "urlboletin": "https://drive.google.com/file/d/1erhsW2Es8aflhy25Dqy7VTOSUdcqtpmP/view?usp=sharing",
+        "nombredelboletin": "PROGRAMACIÓN DOMINGO 13 DE ABRIL 2025 BOLETIN LA LIGA F8 No 6 SEGUNDO TORNEO 2025"
     }
     ]
