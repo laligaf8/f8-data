@@ -2,7 +2,14 @@
    "popup": {
       "titulo": "Bienvenido a la Liga F8",
       "texto": "Descubre toda la información sobre nuestros torneos y cómo inscribir a tu equipo.",
-      "imagen": "https://scontent.fbog2-4.fna.fbcdn.net/v/t39.30808-6/499917629_1149085753901016_3306195697871107273_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xPZRlgLNvYUQ7kNvwFDvI3o&_nc_oc=AdlYjj3vnVdpOg-m3JPbnBAj2n4R4b6TujRXyo9HFFnHyPAGhIU5lN68m_rYhpVxqahlwJsTETlpdZ5-kVqo45JJ&_nc_zt=23&_nc_ht=scontent.fbog2-4.fna&_nc_gid=ajdZWKtzcNOCb9S4l4hGGA&oh=00_AfKmHwAj-tP7IymdKXjshxWLcZ_7myMpEt8xo4aUOJ10zw&oe=683EB47F",
+      "imagen": "https://scontent.fbog2-4.fna.fbcdn.net/v/t39.30808-6/528555482_1206768568132734_61752036786810442_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yyRW_PpD1nEQ7kNvwHsjtOI&_nc_oc=AdlbcUUcrBJXX93le4shzvtERhUxU4o7vfhF8CPClIQ9HyRz3rWkFQRwZObwpK_-BiX9RPpmkjz6sVg9cqpqZZ0D&_nc_zt=23&_nc_ht=scontent.fbog2-4.fna&_nc_gid=7c_68WBbScWUtWuUryDPFA&oh=00_AfWegTJrEpEYc-zUoQv1XbpySNqdILpEacWYcAbt9qz42g&oe=68A3F36F",
+      "enlace": "https://wa.me/573053090995?text=Quiero%20inscribir%20a%20mi%20equipo"
+   },
+{
+   "popup": {
+      "titulo": "Bienvenido a la Liga F8",
+      "texto": "Descubre toda la información sobre nuestros torneos y cómo inscribir a tu equipo.",
+      "imagen": "https://scontent.fbog2-3.fna.fbcdn.net/v/t39.30808-6/516746156_1184461203696804_8008680469173459908_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-nmG461NtkoQ7kNvwFKpfSA&_nc_oc=Adn0Y90DhrLG2Fd-UhDCRegZot92iaZ0-WyxX8h2bZ8Fb8zR5w13aq_ggtfeW66J_L9U6D7U9j9Vm3qYqiRHzsL9&_nc_zt=23&_nc_ht=scontent.fbog2-3.fna&_nc_gid=IArmCLYShhkThwhuE1saJg&oh=00_AfUoII6O_1EXvaV7xue_IGq3DVMdBqNTtHlCOUb6NvzxAg&oe=68A3FC1A",
       "enlace": "https://wa.me/573053090995?text=Quiero%20inscribir%20a%20mi%20equipo"
    }
 }
